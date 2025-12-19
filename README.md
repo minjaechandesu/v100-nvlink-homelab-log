@@ -1,12 +1,3 @@
-
-
-https://github.com/user-attachments/assets/5a1ed25e-829a-46a1-8c1b-52d8092fc94b
-
-![IMG_0126](https://github.com/user-attachments/assets/915d86df-ae91-40b9-998f-765b4a91572c)
-<img width="520" height="356" alt="스크린샷 2025-12-19 오후 12 17 29" src="https://github.com/user-attachments/assets/ad26bc29-1d0d-4e89-985f-3765bbc79edf" />
-![IMG_0102](https://github.com/user-attachments/assets/9e91926b-482a-4950-a78a-419bf2b3b4eb)
-![IMG_0103](https://github.com/user-attachments/assets/96dc48d7-0e86-460d-ac05-9c5f8d4fdba5)
-![IMG_0104](https://github.com/user-attachments/assets/d2e5f06b-586b-4494-9325-b5a0e6dae532)
 # V100 NVLink Homelab Log
 
 ## Overview
@@ -20,6 +11,17 @@ datacenter GPU hardware and scientific computing workflows.
 - GPU: NVIDIA Tesla V100 SXM2
 - NVLink: OEM NVLink bridge
 - Environment: Home lab (non-datacenter)
+![IMG_0104](https://github.com/user-attachments/assets/71b72ef4-cff0-4d1a-a411-4848f04449cd)
+![IMG_0103](https://github.com/user-attachments/assets/c70a7a56-e0ca-428f-b9a1-7c05fd8d4b83)
+![IMG_0102](https://github.com/user-attachments/assets/fb55964e-7789-41ac-a7f3-1f3d502ee2d3)
+
+
+https://github.com/user-attachments/assets/475a06e2-d779-444d-b27a-58a5267b7d70
+
+![IMG_0126](https://github.com/user-attachments/assets/136844ef-ea66-4b28-b987-ea4f8037db2e)
+
+
+
 
 ## Goals
 - Practical experience with datacenter-grade GPUs
