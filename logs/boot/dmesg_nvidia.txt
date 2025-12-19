@@ -1,0 +1,26 @@
+[    5.684288] input: HDA NVidia HDMI/DP,pcm=3 as /devices/pci0000:40/0000:40:01.1/0000:41:00.1/sound/card0/input8
+[    5.684385] input: HDA NVidia HDMI/DP,pcm=7 as /devices/pci0000:40/0000:40:01.1/0000:41:00.1/sound/card0/input9
+[    5.684473] input: HDA NVidia HDMI/DP,pcm=8 as /devices/pci0000:40/0000:40:01.1/0000:41:00.1/sound/card0/input10
+[    5.684570] input: HDA NVidia HDMI/DP,pcm=9 as /devices/pci0000:40/0000:40:01.1/0000:41:00.1/sound/card0/input11
+[    5.938698] nvidia: loading out-of-tree module taints kernel.
+[    5.938707] nvidia: module license 'NVIDIA' taints kernel.
+[    5.938712] nvidia: module verification failed: signature and/or required key missing - tainting kernel
+[    5.938713] nvidia: module license taints kernel.
+[    6.147895] nvidia-nvlink: Nvlink Core is being initialized, major device number 235
+[    6.157874] nvidia 0000:41:00.0: vgaarb: VGA decodes changed: olddecodes=io+mem,decodes=none:owns=none
+[    6.206813] nvidia 0000:81:00.0: enabling device (0000 -> 0002)
+[    6.430835] nvidia 0000:c1:00.0: enabling device (0000 -> 0002)
+[    6.476852] NVRM: loading NVIDIA UNIX x86_64 Kernel Module  580.95.05  Tue Sep 23 10:11:16 UTC 2025
+[    6.502449] nvidia-modeset: Loading NVIDIA Kernel Mode Setting Driver for UNIX platforms  580.95.05  Tue Sep 23 09:41:17 UTC 2025
+[    6.505674] [drm] [nvidia-drm] [GPU ID 0x00004100] Loading driver
+[    8.255683] [drm] Initialized nvidia-drm 0.0.0 20160202 for 0000:41:00.0 on minor 1
+[    8.256903] nvidia 0000:41:00.0: [drm] Cannot find any crtc or sizes
+[    8.256950] [drm] [nvidia-drm] [GPU ID 0x00008100] Loading driver
+[    9.935637] [drm] Initialized nvidia-drm 0.0.0 20160202 for 0000:81:00.0 on minor 2
+[    9.935675] nvidia 0000:81:00.0: [drm] No compatible format found
+[    9.935682] nvidia 0000:81:00.0: [drm] Cannot find any crtc or sizes
+[    9.935738] [drm] [nvidia-drm] [GPU ID 0x0000c100] Loading driver
+[   11.929186] [drm] Initialized nvidia-drm 0.0.0 20160202 for 0000:c1:00.0 on minor 3
+[   11.929228] nvidia 0000:c1:00.0: [drm] No compatible format found
+[   11.929235] nvidia 0000:c1:00.0: [drm] Cannot find any crtc or sizes
+[   11.970438] nvidia_uvm: module uses symbols nvUvmInterfaceDisableAccessCntr from proprietary module nvidia, inheriting taint.
